@@ -1,0 +1,23 @@
+.item-wrapper{
+  position:relative;
+  float: center;
+  margin-right: auto;
+  margin-left: auto;
+  width: 1000px;
+  height: 800px;
+  overflow:hidden;
+
+}
+.item-wrapper img{
+  width:100%;
+  height:auto;
+}
+
+.titre{
+color:white;
+font-family: 'Pacifico',cursive;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
